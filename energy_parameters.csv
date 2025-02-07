@@ -1,0 +1,6 @@
+Energy Source,LCOE Cost ($/MWh),Pollution Cost (g/kWh CO2eq),Fixed Cost ($ per MW),Production Limit (MW),Renewable Indicator,Consumption Rate
+solar,86.5,37,1516000,905.264,1,0.9
+wind,106.5,12,1389000,905.264,1,0.85
+hydro,213.0,150,6428500,43000.0,1,0.95
+coal,74.0,1000,4074000,0.0,0,0.7
+natural_gas,54.0,430,1300000,452.632,0,0.8
